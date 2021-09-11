@@ -1,6 +1,6 @@
-# stt
+# Speech to Text
 
-A new Flutter project.
+App that implements speech to text in most simple manner.
 
 ## Getting Started
 
